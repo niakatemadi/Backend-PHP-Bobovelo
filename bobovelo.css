@@ -1,0 +1,27 @@
+form
+{
+    border:1px solid red;
+    width:50%;
+    height:400px;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items:center;
+}
+body 
+{
+    border:1px solid black;
+    height:700px;
+    display:flex;
+    flex-direction:column;
+}
+.collapse
+{
+    display:flex;
+    flex-direction:row;
+    background-color:green;
+}
+ul 
+{
+    border:4px solid blue;
+}
